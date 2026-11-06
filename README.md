@@ -2,6 +2,18 @@
 
 Complete research blueprint, benchmark study, and live webcam / pre-recorded video Smart Mirror prototype.
 
+## Live Smart Mirror Demo Preview
+
+![Siraj AI Smart Mirror Demo](smart_mirror_demo.gif)
+
+### 4-Panel Side-by-Side Comparison Board
+![4-Panel Comparison Board](smart_mirror_comparison_board.jpg)
+
+### Pose Self-Occlusion Study
+![Pose Occlusion Study](pose_occlusion_study.jpg)
+
+---
+
 ## Quick Start on MacBook (With Built-In FaceTime Camera)
 
 ```bash
